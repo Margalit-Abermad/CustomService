@@ -1,0 +1,20 @@
+S:\HandesaimV\Students\Group1\מערבי מיכל\פרוייקט\WindowsService\WindowsService\bin\Debug\WindowsService.exe.config
+S:\HandesaimV\Students\Group1\מערבי מיכל\פרוייקט\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+S:\HandesaimV\Students\Group1\מערבי מיכל\פרוייקט\WindowsService\WindowsService\bin\Debug\WindowsService.pdb
+S:\HandesaimV\Students\Group1\מערבי מיכל\פרוייקט\WindowsService\WindowsService\obj\Debug\WindowsService.csproj.SuggestedBindingRedirects.cache
+S:\HandesaimV\Students\Group1\מערבי מיכל\פרוייקט\WindowsService\WindowsService\obj\Debug\WindowsService.ProjectInstaller.resources
+S:\HandesaimV\Students\Group1\מערבי מיכל\פרוייקט\WindowsService\WindowsService\obj\Debug\WindowsService.csproj.GenerateResource.cache
+S:\HandesaimV\Students\Group1\מערבי מיכל\פרוייקט\WindowsService\WindowsService\obj\Debug\WindowsService.csproj.CoreCompileInputs.cache
+S:\HandesaimV\Students\Group1\מערבי מיכל\פרוייקט\WindowsService\WindowsService\obj\Debug\WindowsService.exe
+S:\HandesaimV\Students\Group1\מערבי מיכל\פרוייקט\WindowsService\WindowsService\obj\Debug\WindowsService.pdb
+S:\HandesaimV\Students\Group1\מערבי מיכל\פרוייקט\WindowsService\WindowsService\obj\Debug\WindowsService.csproj.AssemblyReference.cache
+C:\Users\user\Music\WindowsService\WindowsService\bin\Debug\WindowsService.exe.config
+C:\Users\user\Music\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+C:\Users\user\Music\WindowsService\WindowsService\bin\Debug\WindowsService.pdb
+C:\Users\user\Music\WindowsService\WindowsService\obj\Debug\WindowsService.csproj.AssemblyReference.cache
+C:\Users\user\Music\WindowsService\WindowsService\obj\Debug\WindowsService.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Music\WindowsService\WindowsService\obj\Debug\WindowsService.ProjectInstaller.resources
+C:\Users\user\Music\WindowsService\WindowsService\obj\Debug\WindowsService.csproj.GenerateResource.cache
+C:\Users\user\Music\WindowsService\WindowsService\obj\Debug\WindowsService.csproj.CoreCompileInputs.cache
+C:\Users\user\Music\WindowsService\WindowsService\obj\Debug\WindowsService.exe
+C:\Users\user\Music\WindowsService\WindowsService\obj\Debug\WindowsService.pdb
